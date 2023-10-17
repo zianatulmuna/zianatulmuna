@@ -1,15 +1,10 @@
-<h1 align="center">Hi 👋, I'm Zian</h1>
-<h3 align="center">A passionate web developer</h3>
+#Hi there 👋 I'm Zian.
 
-- 🔭 I’m currently working on [Rumah Terapi Sahabat Website](rumahterapisahabat.web.id)
-
-- 🌱 I’m currently learning **JavaScript Framework**
-
-- 💬 Ask me about **Front-End Web, Back-End Web, Laravel**
-
-- 📫 How to reach me **zianatulmn@gmail.com**
-
-- ⚡ Fun fact **I think I can face error with a smile**
+🔭 I’m currently working on [Rumah Terapi Sahabat Website](rumahterapisahabat.web.id)
+🌱 I’m currently learning **JavaScript Framework**
+💬 Ask me about **Front-End Web, Back-End Web, Laravel**
+📫 How to reach me **zianatulmn@gmail.com**
+⚡ Fun fact **I think I can face error with a smile**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
