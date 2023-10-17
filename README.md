@@ -1,10 +1,9 @@
 <h3 style="color:black">Hi there 👋 I'm Zian</h3>
 
-<p>🔭 I’m currently working on [Rumah Terapi Sahabat Website](rumahterapisahabat.web.id)</p>
-<p>🌱 I’m currently learning **JavaScript Framework**</p>
-<p>💬 Ask me about **Front-End Web, Back-End Web, Laravel**</p>
-<p>📫 Reach me **zianatulmn@gmail.com**</p>
-<p>⚡ **I think I can face error with a smile**</p>
+🔭 I’m currently working on [Rumah Terapi Sahabat Website](rumahterapisahabat.web.id)
+<br>🌱 I’m currently learning **JavaScript Framework**
+<br>💬 Ask me about **Front-End Web, Back-End Web, Laravel**
+<br>⚡ **I think I can face error with a smile**
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
