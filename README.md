@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Zian
 
-🔭 Currently working on [Rumah Terapi Sahabat Website](rumahterapisahabat.web.id)
+🔭 Currently working on <a href="rumahterapisahabat.web.id" target="blank">Rumah Terapi Sahabat Website</a>
 <br>🌱 Currently learning **JavaScript Framework**
 <br>💬 Ask me about **Front-End Web, Back-End Web, Laravel**
 <br>⚡ **I think I can face error with a smile**
