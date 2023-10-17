@@ -1,15 +1,5 @@
 ## Hi there 👋 I'm Zian
 
-<a href="https://github.com/zianatulmuna" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/zianatulmuna" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/zianatulmuna" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>  
-
 🔭 Currently working on [Rumah Terapi Sahabat Website](rumahterapisahabat.web.id)
 <br>🌱 Currently learning **JavaScript Framework**
 <br>💬 Ask me about **Front-End Web, Back-End Web, Laravel**
@@ -21,27 +11,9 @@
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zianatulmuna&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zianatulmuna&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=zianatulmuna&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 80%" />
+</td><td valign="top" width="30%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zianatulmuna&hide_border=true&layout=compact" align="left" style="width: 80%" />
 </td></tr></table>  
-
 <br/>  
-
-  
-
-<br/>  
-
 ![Profile views counter](https://komarev.com/ghpvc/?username=zianatulmuna&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
